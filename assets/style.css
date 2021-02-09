@@ -14,7 +14,7 @@ header nav ul li
     text-align: center;
     position: relative;
     margin-right: 100px;
-    background-color: coral;
+    background-color:#FF7F50;
 }
 body
 {
@@ -60,7 +60,7 @@ body
 footer
 {
     margin-top: 100px;
-    border: black;
+    border: rgb(0,0,0);
     border-style: double;
     color: coral;
 text-align: center;
